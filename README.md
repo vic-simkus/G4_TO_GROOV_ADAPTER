@@ -1,0 +1,2 @@
+# G4_TO_GROOV_ADAPTER
+Allows use of G4PB24 with GRV-ODCSRC-24
