@@ -1,0 +1,23 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,MFG,MFGPN,DKPN,TCR,TOL,PD
+1,"Generic connector, double row, 02x25, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x25_Odd_Even,BOARD1,Conn_02x25_Odd_Even,FCI_50PIN,1,~,AMPHENOL ICC (FCI),71918-150LF,609-1759-ND,,,
+2,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,PLC24,Conn_01x02,2_POS_SPRING_TERM,1,~,PHOENIX CONTACT,1990009,277-1794-ND,,,
+3,"Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x12,PLC1-12 PLC13-14,Conn_01x12,12_POS_SPRING_TERM,2,~,PHOENIX CONTACT,1990106,277-1804-ND,,,
+4,"NPN transistor, base/emitter/collector",Q_NPN_BEC,Q1 Q2 Q3 Q4 Q5 Q6 Q7 Q8 Q9 Q10 Q11 Q12 Q13 Q14 Q15 Q16 Q17 Q18 Q19 Q20 Q21 Q22 Q23 Q24,Q_NPN_CBE,SOT-23,24,~,Diodes Incorporated,MMBTA42-7-F,MMBTA42-FDICT-ND,,,
+5,Resistor,R,R2 R4 R6 R8 R10 R12 R14 R16 R18 R20 R22 R24 R26 R28 R30 R32 R34 R36 R38 R40 R42 R44 R46 R48,10K,R_0805_2012Metric,24,~,TE Connectivity Passive Product,CRGCQ0805F10K,A129761CT-ND,100,1%,
+6,Resistor,R,R1 R3 R5 R7 R9 R11 R13 R15 R17 R19 R21 R23 R25 R27 R29 R31 R33 R35 R37 R39 R41 R43 R45 R47,5K6,R_0805_2012Metric,24,~,Panasonic Electronic Components,ERJ-P06J562V,P5.6KADCT-ND,200,5%,0.5W
+7,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,VDC24,Conn_01x02,2_POS_SCREW_TERM,1,~,PHOENIX CONTACT,1990009,277-1794-ND,,,
+
+
+
+
+
+Component Groups:,7
+Component Count:,77
+Fitted Components:,77
+Number of PCBs:,1
+Total components:,77
+Schematic Version:,V1.0
+Schematic Date:,2019-05-24
+BoM Date:,Wed 29 May 2019 07:05:32 PM CDT
+Schematic Source:,/home/vic/Desktop/AGBR_IO_PROJECT/KiCAD/ADAPTER_BOARD/ADAPTER_BOARD.sch
+KiCad Version:,Eeschema 5.0.2-bee76a0~70~ubuntu18.04.1
