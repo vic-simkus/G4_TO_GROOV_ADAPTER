@@ -1,5 +1,5 @@
-Drill report for /home/vic/Desktop/AGBR_IO_PROJECT/KiCAD/ADAPTER_BOARD/ADAPTER_BOARD.kicad_pcb
-Created on Wed 29 May 2019 06:19:45 PM CDT
+Drill report for /opt/dev/git_work/G4_TO_GROOV_ADAPTER/KiCAD/OUTPUT_ADAPTER_BOARD/ADAPTER_BOARD.kicad_pcb
+Created on Tue 11 Jun 2019 07:19:14 PM CDT
 
 Copper Layer Stackup:
     =============================================================
@@ -10,14 +10,14 @@ Copper Layer Stackup:
 Drill file 'ADAPTER_BOARD.drl' contains
     plated through holes:
     =============================================================
-    T1  0.40mm  0.016"  (303 holes)
-    T2  0.50mm  0.020"  (264 holes)
+    T1  0.40mm  0.016"  (326 holes)
+    T2  0.50mm  0.020"  (310 holes)
     T3  1.00mm  0.039"  (26 holes)
     T4  1.10mm  0.043"  (50 holes)
     T5  1.30mm  0.051"  (2 holes)
     T6  4.30mm  0.169"  (4 holes)
 
-    Total plated holes count 649
+    Total plated holes count 718
 
 
 Not plated through holes are merged with plated holes
