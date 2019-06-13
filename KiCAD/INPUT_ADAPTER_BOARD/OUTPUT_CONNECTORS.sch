@@ -1,0 +1,493 @@
+EESchema Schematic File Version 4
+LIBS:ADAPTER_BOARD-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 26 26
+Title "O22 INPUT ADAPTER"
+Date "2019-06-12"
+Rev "V1.0"
+Comp "Vidas Simkus"
+Comment1 "vic.simkus@gmail.com"
+Comment2 "https://www.simkus.com"
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Label 6450 4100 0    39   ~ 0
+P12
+Text Label 6450 4200 0    39   ~ 0
+P11
+Text Label 6450 4300 0    39   ~ 0
+P10
+Text Label 6450 4400 0    39   ~ 0
+P09
+Text Label 6450 4500 0    39   ~ 0
+P08
+Text Label 6450 4600 0    39   ~ 0
+P07
+Text Label 6450 4700 0    39   ~ 0
+P06
+Text Label 6450 4800 0    39   ~ 0
+P05
+Text Label 6450 4900 0    39   ~ 0
+P04
+Text Label 6450 5000 0    39   ~ 0
+P03
+Text Label 6450 5100 0    39   ~ 0
+P02
+Text Label 6450 5200 0    39   ~ 0
+P01
+Wire Wire Line
+	3350 4100 3400 4100
+Wire Wire Line
+	6450 4200 6750 4200
+Wire Wire Line
+	3850 4300 3900 4300
+Wire Wire Line
+	6450 4400 6750 4400
+Wire Wire Line
+	4350 4500 4400 4500
+Wire Wire Line
+	6450 4600 6750 4600
+Wire Wire Line
+	4850 4700 4900 4700
+Wire Wire Line
+	6450 4800 6750 4800
+Wire Wire Line
+	6450 5000 6750 5000
+Wire Wire Line
+	5850 5100 5900 5100
+Wire Wire Line
+	6450 5200 6750 5200
+Wire Wire Line
+	6750 2150 3500 2150
+Wire Wire Line
+	6450 2250 6750 2250
+Wire Wire Line
+	6750 2350 4000 2350
+Wire Wire Line
+	6450 2450 6750 2450
+Wire Wire Line
+	6750 2550 4500 2550
+Wire Wire Line
+	6750 2650 6450 2650
+Wire Wire Line
+	6750 2750 5000 2750
+Wire Wire Line
+	6750 2850 6450 2850
+Wire Wire Line
+	6750 2950 5500 2950
+Wire Wire Line
+	6750 3050 6450 3050
+Wire Wire Line
+	6750 3150 6000 3150
+Wire Wire Line
+	6750 3250 6450 3250
+Text Label 6450 2150 0    39   ~ 0
+P24
+Text Label 6450 2250 0    39   ~ 0
+P23
+Text Label 6450 2350 0    39   ~ 0
+P22
+Text Label 6450 2450 0    39   ~ 0
+P21
+Text Label 6450 2550 0    39   ~ 0
+P20
+Text Label 6450 2650 0    39   ~ 0
+P19
+Text Label 6450 2750 0    39   ~ 0
+P18
+Text Label 6450 2850 0    39   ~ 0
+P17
+Text Label 6450 2950 0    39   ~ 0
+P16
+Text Label 6450 3050 0    39   ~ 0
+P15
+Text Label 6450 3150 0    39   ~ 0
+P14
+Text Label 6450 3250 0    39   ~ 0
+P13
+$Comp
+L Connector_Generic:Conn_01x12 PLC1-?
+U 1 1 5D03A89E
+P 6950 4600
+AR Path="/5D03A89E" Ref="PLC1-?"  Part="1" 
+AR Path="/5D03437C/5D03A89E" Ref="PLC1-2"  Part="1" 
+F 0 "PLC1-2" H 7030 4592 50  0000 L CNN
+F 1 "Conn_01x12" H 7030 4501 50  0000 L CNN
+F 2 "FOOTPRINTS:12_POS_SPRING_TERM" H 6950 4600 50  0001 C CNN
+F 3 "~" H 6950 4600 50  0001 C CNN
+F 4 "277-1804-ND" H 6950 4600 50  0001 C CNN "DKPN"
+F 5 "1990106" H 6950 4600 50  0001 C CNN "MFGPN"
+F 6 "PHOENIX CONTACT" H 6950 4600 50  0001 C CNN "MFG"
+	1    6950 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x12 PLC13-?
+U 1 1 5D03A8A8
+P 6950 2650
+AR Path="/5D03A8A8" Ref="PLC13-?"  Part="1" 
+AR Path="/5D03437C/5D03A8A8" Ref="PLC13-2"  Part="1" 
+F 0 "PLC13-2" H 7030 2642 50  0000 L CNN
+F 1 "Conn_01x12" H 7030 2551 50  0000 L CNN
+F 2 "FOOTPRINTS:12_POS_SPRING_TERM" H 6950 2650 50  0001 C CNN
+F 3 "~" H 6950 2650 50  0001 C CNN
+F 4 "PHOENIX CONTACT" H 6950 2650 50  0001 C CNN "MFG"
+F 5 "277-1804-ND" H 6950 2650 50  0001 C CNN "DKPN"
+F 6 "1990106" H 6950 2650 50  0001 C CNN "MFGPN"
+	1    6950 2650
+	1    0    0    -1  
+$EndComp
+Text HLabel 6450 5200 0    50   Input ~ 0
+P01
+Text HLabel 5850 5100 0    50   Input ~ 0
+P02
+Text HLabel 6450 5000 0    50   Input ~ 0
+P03
+Text HLabel 5350 4900 0    50   Input ~ 0
+P04
+Text HLabel 6450 4800 0    50   Input ~ 0
+P05
+Text HLabel 4850 4700 0    50   Input ~ 0
+P06
+Text HLabel 6450 4600 0    50   Input ~ 0
+P07
+Text HLabel 4350 4500 0    50   Input ~ 0
+P08
+Text HLabel 6450 4400 0    50   Input ~ 0
+P09
+Text HLabel 3850 4300 0    50   Input ~ 0
+P10
+Text HLabel 6450 4200 0    50   Input ~ 0
+P11
+Text HLabel 3350 4100 0    50   Input ~ 0
+P12
+$Comp
+L Jumper:SolderJumper_2_Open JP12
+U 1 1 5D04AC65
+P 5900 5250
+F 0 "JP12" V 5854 5318 50  0000 L CNN
+F 1 "12P" V 5945 5318 50  0000 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 5900 5250 50  0001 C CNN
+F 3 "~" H 5900 5250 50  0001 C CNN
+	1    5900 5250
+	0    1    1    0   
+$EndComp
+Connection ~ 5900 5100
+Wire Wire Line
+	5900 5100 6750 5100
+$Comp
+L Jumper:SolderJumper_2_Open JP11
+U 1 1 5D04B481
+P 5400 5050
+F 0 "JP11" V 5354 5118 50  0000 L CNN
+F 1 "12P" V 5445 5118 50  0000 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 5400 5050 50  0001 C CNN
+F 3 "~" H 5400 5050 50  0001 C CNN
+	1    5400 5050
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5400 4900 6750 4900
+Connection ~ 5400 4900
+Wire Wire Line
+	5350 4900 5400 4900
+$Comp
+L Jumper:SolderJumper_2_Open JP10
+U 1 1 5D04DDA9
+P 4900 4850
+F 0 "JP10" V 4854 4918 50  0000 L CNN
+F 1 "12P" V 4945 4918 50  0000 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 4900 4850 50  0001 C CNN
+F 3 "~" H 4900 4850 50  0001 C CNN
+	1    4900 4850
+	0    1    1    0   
+$EndComp
+Connection ~ 4900 4700
+Wire Wire Line
+	4900 4700 6750 4700
+$Comp
+L Jumper:SolderJumper_2_Open JP9
+U 1 1 5D04F8F4
+P 4400 4650
+F 0 "JP9" V 4354 4718 50  0000 L CNN
+F 1 "12P" V 4445 4718 50  0000 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 4400 4650 50  0001 C CNN
+F 3 "~" H 4400 4650 50  0001 C CNN
+	1    4400 4650
+	0    1    1    0   
+$EndComp
+Connection ~ 4400 4500
+Wire Wire Line
+	4400 4500 6750 4500
+$Comp
+L Jumper:SolderJumper_2_Open JP8
+U 1 1 5D051959
+P 3900 4450
+F 0 "JP8" V 3854 4518 50  0000 L CNN
+F 1 "12P" V 3945 4518 50  0000 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 3900 4450 50  0001 C CNN
+F 3 "~" H 3900 4450 50  0001 C CNN
+	1    3900 4450
+	0    1    1    0   
+$EndComp
+Connection ~ 3900 4300
+Wire Wire Line
+	3900 4300 6750 4300
+$Comp
+L Jumper:SolderJumper_2_Open JP7
+U 1 1 5D0531B8
+P 3400 4250
+F 0 "JP7" V 3354 4318 50  0000 L CNN
+F 1 "12P" V 3445 4318 50  0000 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 3400 4250 50  0001 C CNN
+F 3 "~" H 3400 4250 50  0001 C CNN
+	1    3400 4250
+	0    1    1    0   
+$EndComp
+Connection ~ 3400 4100
+Wire Wire Line
+	3400 4100 6750 4100
+$Comp
+L power:GND #PWR038
+U 1 1 5D054FE5
+P 5900 5400
+F 0 "#PWR038" H 5900 5150 50  0001 C CNN
+F 1 "GND" H 5905 5227 50  0000 C CNN
+F 2 "" H 5900 5400 50  0001 C CNN
+F 3 "" H 5900 5400 50  0001 C CNN
+	1    5900 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR037
+U 1 1 5D05501F
+P 5400 5200
+F 0 "#PWR037" H 5400 4950 50  0001 C CNN
+F 1 "GND" H 5405 5027 50  0000 C CNN
+F 2 "" H 5400 5200 50  0001 C CNN
+F 3 "" H 5400 5200 50  0001 C CNN
+	1    5400 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR036
+U 1 1 5D055059
+P 4900 5000
+F 0 "#PWR036" H 4900 4750 50  0001 C CNN
+F 1 "GND" H 4905 4827 50  0000 C CNN
+F 2 "" H 4900 5000 50  0001 C CNN
+F 3 "" H 4900 5000 50  0001 C CNN
+	1    4900 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR035
+U 1 1 5D055093
+P 4400 4800
+F 0 "#PWR035" H 4400 4550 50  0001 C CNN
+F 1 "GND" H 4405 4627 50  0000 C CNN
+F 2 "" H 4400 4800 50  0001 C CNN
+F 3 "" H 4400 4800 50  0001 C CNN
+	1    4400 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR034
+U 1 1 5D055195
+P 3900 4600
+F 0 "#PWR034" H 3900 4350 50  0001 C CNN
+F 1 "GND" H 3905 4427 50  0000 C CNN
+F 2 "" H 3900 4600 50  0001 C CNN
+F 3 "" H 3900 4600 50  0001 C CNN
+	1    3900 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR033
+U 1 1 5D0551CF
+P 3400 4400
+F 0 "#PWR033" H 3400 4150 50  0001 C CNN
+F 1 "GND" H 3405 4227 50  0000 C CNN
+F 2 "" H 3400 4400 50  0001 C CNN
+F 3 "" H 3400 4400 50  0001 C CNN
+	1    3400 4400
+	1    0    0    -1  
+$EndComp
+Text HLabel 6450 3250 0    50   Input ~ 0
+P13
+Text HLabel 5950 3150 0    50   Input ~ 0
+P14
+Text HLabel 6450 3050 0    50   Input ~ 0
+P15
+Text HLabel 5450 2950 0    50   Input ~ 0
+P16
+Text HLabel 6450 2850 0    50   Input ~ 0
+P17
+Text HLabel 4950 2750 0    50   Input ~ 0
+P18
+Text HLabel 6450 2650 0    50   Input ~ 0
+P19
+Text HLabel 4450 2550 0    50   Input ~ 0
+P20
+Text HLabel 6450 2450 0    50   Input ~ 0
+P21
+Text HLabel 3950 2350 0    50   Input ~ 0
+P22
+Text HLabel 6450 2250 0    50   Input ~ 0
+P23
+Text HLabel 3450 2150 0    50   Input ~ 0
+P24
+$Comp
+L Jumper:SolderJumper_2_Open JP6
+U 1 1 5D05D4BB
+P 6000 3300
+F 0 "JP6" V 5954 3368 50  0000 L CNN
+F 1 "12P" V 6045 3368 50  0000 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 6000 3300 50  0001 C CNN
+F 3 "~" H 6000 3300 50  0001 C CNN
+	1    6000 3300
+	0    1    1    0   
+$EndComp
+Connection ~ 6000 3150
+Wire Wire Line
+	6000 3150 5950 3150
+$Comp
+L Jumper:SolderJumper_2_Open JP5
+U 1 1 5D05EF88
+P 5500 3100
+F 0 "JP5" V 5454 3168 50  0000 L CNN
+F 1 "12P" V 5545 3168 50  0000 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 5500 3100 50  0001 C CNN
+F 3 "~" H 5500 3100 50  0001 C CNN
+	1    5500 3100
+	0    1    1    0   
+$EndComp
+Connection ~ 5500 2950
+Wire Wire Line
+	5500 2950 5450 2950
+$Comp
+L Jumper:SolderJumper_2_Open JP4
+U 1 1 5D060C61
+P 5000 2900
+F 0 "JP4" V 4954 2968 50  0000 L CNN
+F 1 "12P" V 5045 2968 50  0000 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 5000 2900 50  0001 C CNN
+F 3 "~" H 5000 2900 50  0001 C CNN
+	1    5000 2900
+	0    1    1    0   
+$EndComp
+Connection ~ 5000 2750
+Wire Wire Line
+	5000 2750 4950 2750
+$Comp
+L Jumper:SolderJumper_2_Open JP3
+U 1 1 5D062CA8
+P 4500 2700
+F 0 "JP3" V 4454 2768 50  0000 L CNN
+F 1 "12P" V 4545 2768 50  0000 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 4500 2700 50  0001 C CNN
+F 3 "~" H 4500 2700 50  0001 C CNN
+	1    4500 2700
+	0    1    1    0   
+$EndComp
+Connection ~ 4500 2550
+Wire Wire Line
+	4500 2550 4450 2550
+$Comp
+L Jumper:SolderJumper_2_Open JP2
+U 1 1 5D064D4C
+P 4000 2500
+F 0 "JP2" V 3954 2568 50  0000 L CNN
+F 1 "12P" V 4045 2568 50  0000 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 4000 2500 50  0001 C CNN
+F 3 "~" H 4000 2500 50  0001 C CNN
+	1    4000 2500
+	0    1    1    0   
+$EndComp
+Connection ~ 4000 2350
+Wire Wire Line
+	4000 2350 3950 2350
+$Comp
+L Jumper:SolderJumper_2_Open JP1
+U 1 1 5D0671D9
+P 3500 2300
+F 0 "JP1" V 3454 2368 50  0000 L CNN
+F 1 "12P" V 3545 2368 50  0000 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 3500 2300 50  0001 C CNN
+F 3 "~" H 3500 2300 50  0001 C CNN
+	1    3500 2300
+	0    1    1    0   
+$EndComp
+Connection ~ 3500 2150
+Wire Wire Line
+	3500 2150 3450 2150
+$Comp
+L power:GND #PWR032
+U 1 1 5D068BBB
+P 6000 3450
+F 0 "#PWR032" H 6000 3200 50  0001 C CNN
+F 1 "GND" H 6005 3277 50  0000 C CNN
+F 2 "" H 6000 3450 50  0001 C CNN
+F 3 "" H 6000 3450 50  0001 C CNN
+	1    6000 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR031
+U 1 1 5D068C07
+P 5500 3250
+F 0 "#PWR031" H 5500 3000 50  0001 C CNN
+F 1 "GND" H 5505 3077 50  0000 C CNN
+F 2 "" H 5500 3250 50  0001 C CNN
+F 3 "" H 5500 3250 50  0001 C CNN
+	1    5500 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR030
+U 1 1 5D068C53
+P 5000 3050
+F 0 "#PWR030" H 5000 2800 50  0001 C CNN
+F 1 "GND" H 5005 2877 50  0000 C CNN
+F 2 "" H 5000 3050 50  0001 C CNN
+F 3 "" H 5000 3050 50  0001 C CNN
+	1    5000 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR029
+U 1 1 5D068C9F
+P 4500 2850
+F 0 "#PWR029" H 4500 2600 50  0001 C CNN
+F 1 "GND" H 4505 2677 50  0000 C CNN
+F 2 "" H 4500 2850 50  0001 C CNN
+F 3 "" H 4500 2850 50  0001 C CNN
+	1    4500 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR028
+U 1 1 5D068CEB
+P 4000 2650
+F 0 "#PWR028" H 4000 2400 50  0001 C CNN
+F 1 "GND" H 4005 2477 50  0000 C CNN
+F 2 "" H 4000 2650 50  0001 C CNN
+F 3 "" H 4000 2650 50  0001 C CNN
+	1    4000 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR027
+U 1 1 5D068D37
+P 3500 2450
+F 0 "#PWR027" H 3500 2200 50  0001 C CNN
+F 1 "GND" H 3505 2277 50  0000 C CNN
+F 2 "" H 3500 2450 50  0001 C CNN
+F 3 "" H 3500 2450 50  0001 C CNN
+	1    3500 2450
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

@@ -1,0 +1,744 @@
+EESchema Schematic File Version 4
+LIBS:ADAPTER_BOARD-cache
+EELAYER 26 0
+EELAYER END
+$Descr USLetter 11000 8500
+encoding utf-8
+Sheet 1 26
+Title "O22 INPUT ADAPTER"
+Date "2019-06-12"
+Rev "V1.0"
+Comp "Vidas Simkus"
+Comment1 "vic.simkus@gmail.com"
+Comment2 "https://www.simkus.com"
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Generic:Conn_02x25_Odd_Even BOARD1
+U 1 1 5CE89A69
+P 1750 2400
+F 0 "BOARD1" H 1800 3817 50  0000 C CNN
+F 1 "Conn_02x25_Odd_Even" H 2350 3750 50  0000 C CNN
+F 2 "FOOTPRINTS:FCI_50PIN" H 1750 2400 50  0001 C CNN
+F 3 "~" H 1750 2400 50  0001 C CNN
+F 4 "71918-150LF" H 1750 2400 50  0001 C CNN "MFGPN"
+F 5 "609-1759-ND" H 1750 2400 50  0001 C CNN "DKPN"
+F 6 "AMPHENOL ICC (FCI)" H 1750 2400 50  0001 C CNN "MFG"
+	1    1750 2400
+	-1   0    0    -1  
+$EndComp
+$Sheet
+S 2950 1800 1650 200 
+U 5CE89E16
+F0 "PNP_TRAN_01" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" B L 2950 1900 50 
+F3 "FROM_PLC" I R 4600 1900 50 
+$EndSheet
+$Sheet
+S 2950 2150 1650 200 
+U 5CE8A3D7
+F0 "sheet5CE8A3D3" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" B L 2950 2250 50 
+F3 "FROM_PLC" I R 4600 2250 50 
+$EndSheet
+$Sheet
+S 2950 2500 1650 200 
+U 5CE8A3E9
+F0 "sheet5CE8A3E4" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" B L 2950 2600 50 
+F3 "FROM_PLC" I R 4600 2600 50 
+$EndSheet
+$Sheet
+S 2950 2850 1650 200 
+U 5CE8A3ED
+F0 "sheet5CE8A3E5" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 2950 2950 50 
+F3 "FROM_PLC" I R 4600 2950 50 
+$EndSheet
+$Sheet
+S 2950 3200 1650 200 
+U 5CE8A423
+F0 "sheet5CE8A41C" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 2950 3300 50 
+F3 "FROM_PLC" I R 4600 3300 50 
+$EndSheet
+$Sheet
+S 2950 3550 1650 200 
+U 5CE8A427
+F0 "sheet5CE8A41D" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 2950 3650 50 
+F3 "FROM_PLC" I R 4600 3650 50 
+$EndSheet
+$Sheet
+S 2950 3900 1650 200 
+U 5CE8A42B
+F0 "sheet5CE8A41E" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 2950 4000 50 
+F3 "FROM_PLC" I R 4600 4000 50 
+$EndSheet
+$Sheet
+S 2950 4250 1650 200 
+U 5CE8A42F
+F0 "sheet5CE8A41F" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 2950 4350 50 
+F3 "FROM_PLC" I R 4600 4350 50 
+$EndSheet
+$Sheet
+S 2950 4600 1650 200 
+U 5CE8A495
+F0 "sheet5CE8A48A" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 2950 4700 50 
+F3 "FROM_PLC" I R 4600 4700 50 
+$EndSheet
+$Sheet
+S 2950 4950 1650 200 
+U 5CE8A499
+F0 "sheet5CE8A48B" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 2950 5050 50 
+F3 "FROM_PLC" I R 4600 5050 50 
+$EndSheet
+$Sheet
+S 2950 5300 1650 200 
+U 5CE8A49D
+F0 "sheet5CE8A48C" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 2950 5400 50 
+F3 "FROM_PLC" I R 4600 5400 50 
+$EndSheet
+$Sheet
+S 2950 5650 1650 200 
+U 5CE8A4A1
+F0 "sheet5CE8A48D" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 2950 5750 50 
+F3 "FROM_PLC" I R 4600 5750 50 
+$EndSheet
+$Sheet
+S 5800 1800 1650 200 
+U 5CE8A4A5
+F0 "sheet5CE8A48E" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 5800 1900 50 
+F3 "FROM_PLC" I R 7450 1900 50 
+$EndSheet
+$Sheet
+S 5800 2150 1650 200 
+U 5CE8A4A9
+F0 "sheet5CE8A48F" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 5800 2250 50 
+F3 "FROM_PLC" I R 7450 2250 50 
+$EndSheet
+$Sheet
+S 5800 2500 1650 200 
+U 5CE8A4AD
+F0 "sheet5CE8A490" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 5800 2600 50 
+F3 "FROM_PLC" I R 7450 2600 50 
+$EndSheet
+$Sheet
+S 5800 2850 1650 200 
+U 5CE8A4B1
+F0 "sheet5CE8A491" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 5800 2950 50 
+F3 "FROM_PLC" I R 7450 2950 50 
+$EndSheet
+$Sheet
+S 5800 3200 1650 200 
+U 5CE8A625
+F0 "sheet5CE8A61E" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 5800 3300 50 
+F3 "FROM_PLC" I R 7450 3300 50 
+$EndSheet
+$Sheet
+S 5800 3550 1650 200 
+U 5CE8A629
+F0 "sheet5CE8A61F" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 5800 3650 50 
+F3 "FROM_PLC" I R 7450 3650 50 
+$EndSheet
+$Sheet
+S 5800 3900 1650 200 
+U 5CE8A62D
+F0 "sheet5CE8A620" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 5800 4000 50 
+F3 "FROM_PLC" I R 7450 4000 50 
+$EndSheet
+$Sheet
+S 5800 4250 1650 200 
+U 5CE8A631
+F0 "sheet5CE8A621" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 5800 4350 50 
+F3 "FROM_PLC" I R 7450 4350 50 
+$EndSheet
+$Sheet
+S 5800 4600 1650 200 
+U 5CE8A6C3
+F0 "sheet5CE8A6B8" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 5800 4700 50 
+F3 "FROM_PLC" I R 7450 4700 50 
+$EndSheet
+$Sheet
+S 5800 4950 1650 200 
+U 5CE8A6C7
+F0 "sheet5CE8A6B9" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 5800 5050 50 
+F3 "FROM_PLC" I R 7450 5050 50 
+$EndSheet
+$Sheet
+S 5800 5300 1650 200 
+U 5CE8A6CB
+F0 "sheet5CE8A6BA" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 5800 5400 50 
+F3 "FROM_PLC" I R 7450 5400 50 
+$EndSheet
+$Sheet
+S 5800 5650 1650 200 
+U 5CE8A6CF
+F0 "sheet5CE8A6BB" 50
+F1 "PNP_TRAN.sch" 50
+F2 "FROM_BOARD" I L 5800 5750 50 
+F3 "FROM_PLC" I R 7450 5750 50 
+$EndSheet
+Text Label 1950 1200 0    39   ~ 0
+B01
+Text Label 1950 1300 0    39   ~ 0
+B02
+Text Label 1950 1400 0    39   ~ 0
+B03
+Text Label 1950 1500 0    39   ~ 0
+B04
+Text Label 1950 1600 0    39   ~ 0
+B05
+Text Label 1950 1700 0    39   ~ 0
+B06
+Text Label 1950 1800 0    39   ~ 0
+B07
+Text Label 1950 2100 0    39   ~ 0
+B10
+Text Label 1950 2200 0    39   ~ 0
+B11
+Text Label 1950 2300 0    39   ~ 0
+B12
+Text Label 2700 1900 0    39   ~ 0
+B01
+Text Label 2700 2250 0    39   ~ 0
+B02
+Text Label 2700 2600 0    39   ~ 0
+B03
+Text Label 2700 2950 0    39   ~ 0
+B04
+Text Label 2700 3300 0    39   ~ 0
+B05
+Text Label 2700 3650 0    39   ~ 0
+B06
+Text Label 2700 4000 0    39   ~ 0
+B07
+Text Label 2700 4350 0    39   ~ 0
+B08
+Text Label 2700 4700 0    39   ~ 0
+B09
+Text Label 2700 5050 0    39   ~ 0
+B10
+Text Label 2700 5400 0    39   ~ 0
+B11
+Text Label 2700 5750 0    39   ~ 0
+B12
+Wire Wire Line
+	1450 1200 1450 1300
+Connection ~ 1450 1300
+Wire Wire Line
+	1450 1300 1450 1400
+Connection ~ 1450 1400
+Wire Wire Line
+	1450 1400 1450 1500
+Connection ~ 1450 1500
+Wire Wire Line
+	1450 1500 1450 1600
+Connection ~ 1450 1600
+Wire Wire Line
+	1450 1600 1450 1700
+Connection ~ 1450 1700
+Wire Wire Line
+	1450 1700 1450 1800
+Connection ~ 1450 1800
+Wire Wire Line
+	1450 1800 1450 1900
+Connection ~ 1450 1900
+Wire Wire Line
+	1450 1900 1450 2000
+Connection ~ 1450 2000
+Wire Wire Line
+	1450 2000 1450 2100
+Connection ~ 1450 2100
+Wire Wire Line
+	1450 2100 1450 2200
+Connection ~ 1450 2200
+Wire Wire Line
+	1450 2200 1450 2300
+Connection ~ 1450 2300
+Wire Wire Line
+	1450 2300 1450 2400
+Connection ~ 1450 2400
+Wire Wire Line
+	1450 2400 1450 2500
+Connection ~ 1450 2500
+Wire Wire Line
+	1450 2500 1450 2600
+Connection ~ 1450 2600
+Wire Wire Line
+	1450 2600 1450 2700
+Connection ~ 1450 2700
+Wire Wire Line
+	1450 2700 1450 2800
+Connection ~ 1450 2800
+Wire Wire Line
+	1450 2800 1450 2900
+Connection ~ 1450 2900
+Wire Wire Line
+	1450 2900 1450 3000
+Connection ~ 1450 3000
+Wire Wire Line
+	1450 3000 1450 3100
+Connection ~ 1450 3100
+Wire Wire Line
+	1450 3100 1450 3200
+Connection ~ 1450 3200
+Wire Wire Line
+	1450 3200 1450 3300
+Connection ~ 1450 3300
+Wire Wire Line
+	1450 3300 1450 3400
+Connection ~ 1450 3400
+Wire Wire Line
+	1450 3400 1450 3500
+Connection ~ 1450 3500
+Wire Wire Line
+	1450 3500 1450 3600
+Connection ~ 1450 3600
+Wire Wire Line
+	1450 3600 1450 3800
+$Comp
+L power:GND #PWR02
+U 1 1 5CE99733
+P 1450 3800
+F 0 "#PWR02" H 1450 3550 50  0001 C CNN
+F 1 "GND" H 1455 3627 50  0000 C CNN
+F 2 "" H 1450 3800 50  0001 C CNN
+F 3 "" H 1450 3800 50  0001 C CNN
+	1    1450 3800
+	1    0    0    -1  
+$EndComp
+Text Label 4800 1900 0    39   ~ 0
+P01
+Text Label 4800 2250 0    39   ~ 0
+P02
+Text Label 4800 2600 0    39   ~ 0
+P03
+Text Label 4800 2950 0    39   ~ 0
+P04
+Text Label 4800 3300 0    39   ~ 0
+P05
+Text Label 4800 3650 0    39   ~ 0
+P06
+Text Label 4800 4000 0    39   ~ 0
+P07
+Text Label 4800 4350 0    39   ~ 0
+P08
+Text Label 4800 4700 0    39   ~ 0
+P09
+Text Label 4800 5050 0    39   ~ 0
+P10
+Text Label 4800 5400 0    39   ~ 0
+P11
+Text Label 4800 5750 0    39   ~ 0
+P12
+Text Label 1950 1900 0    39   ~ 0
+B08
+Text Label 1950 2000 0    39   ~ 0
+B09
+Wire Wire Line
+	2950 1900 2700 1900
+Wire Wire Line
+	2950 2250 2700 2250
+Wire Wire Line
+	2950 2600 2700 2600
+Wire Wire Line
+	2950 2950 2700 2950
+Wire Wire Line
+	2950 3300 2700 3300
+Wire Wire Line
+	2950 3650 2700 3650
+Wire Wire Line
+	2700 4000 2950 4000
+Wire Wire Line
+	2700 4350 2950 4350
+Wire Wire Line
+	2700 4700 2950 4700
+Wire Wire Line
+	2700 5050 2950 5050
+Wire Wire Line
+	2700 5400 2950 5400
+Wire Wire Line
+	2700 5750 2950 5750
+Wire Wire Line
+	4600 1900 4800 1900
+Wire Wire Line
+	4800 2250 4600 2250
+Wire Wire Line
+	4800 2600 4600 2600
+Wire Wire Line
+	4600 2950 4800 2950
+Wire Wire Line
+	4600 3300 4800 3300
+Wire Wire Line
+	4600 3650 4800 3650
+Wire Wire Line
+	4800 4000 4600 4000
+Wire Wire Line
+	4600 4350 4800 4350
+Wire Wire Line
+	4800 4700 4600 4700
+Wire Wire Line
+	4600 5050 4800 5050
+Wire Wire Line
+	4800 5400 4600 5400
+Wire Wire Line
+	4600 5750 4800 5750
+Wire Wire Line
+	7450 1900 7700 1900
+Wire Wire Line
+	7450 2250 7700 2250
+Wire Wire Line
+	7450 2600 7700 2600
+Wire Wire Line
+	7450 2950 7700 2950
+Wire Wire Line
+	7450 3300 7700 3300
+Wire Wire Line
+	7450 3650 7700 3650
+Wire Wire Line
+	7450 4000 7700 4000
+Wire Wire Line
+	7450 4350 7700 4350
+Wire Wire Line
+	7450 4700 7700 4700
+Wire Wire Line
+	7450 5050 7700 5050
+Wire Wire Line
+	7450 5400 7700 5400
+Wire Wire Line
+	7450 5750 7700 5750
+Text Label 7700 1900 0    39   ~ 0
+P13
+Text Label 7700 2250 0    39   ~ 0
+P14
+Text Label 7700 2600 0    39   ~ 0
+P15
+Text Label 7700 2950 0    39   ~ 0
+P16
+Text Label 7700 3300 0    39   ~ 0
+P17
+Text Label 7700 3650 0    39   ~ 0
+P18
+Text Label 7700 4000 0    39   ~ 0
+P19
+Text Label 7700 4350 0    39   ~ 0
+P20
+Text Label 7700 4700 0    39   ~ 0
+P21
+Text Label 7700 5050 0    39   ~ 0
+P22
+Text Label 7700 5400 0    39   ~ 0
+P23
+Text Label 7700 5750 0    39   ~ 0
+P24
+Text Label 1950 2400 0    39   ~ 0
+B13
+Text Label 1950 2500 0    39   ~ 0
+B14
+Text Label 1950 2600 0    39   ~ 0
+B15
+Text Label 1950 2700 0    39   ~ 0
+B16
+Text Label 1950 2800 0    39   ~ 0
+B17
+Text Label 1950 2900 0    39   ~ 0
+B18
+Text Label 1950 3000 0    39   ~ 0
+B19
+Text Label 1950 3100 0    39   ~ 0
+B20
+Text Label 1950 3200 0    39   ~ 0
+B21
+Text Label 1950 3300 0    39   ~ 0
+B22
+Text Label 1950 3400 0    39   ~ 0
+B23
+Text Label 1950 3500 0    39   ~ 0
+B24
+NoConn ~ 1950 3600
+Text Label 5600 1900 0    39   ~ 0
+B13
+Text Label 5600 2250 0    39   ~ 0
+B14
+Text Label 5600 2600 0    39   ~ 0
+B15
+Text Label 5600 2950 0    39   ~ 0
+B16
+Text Label 5600 3300 0    39   ~ 0
+B17
+Text Label 5600 3650 0    39   ~ 0
+B18
+Text Label 5600 4000 0    39   ~ 0
+B19
+Text Label 5600 4350 0    39   ~ 0
+B20
+Text Label 5600 4700 0    39   ~ 0
+B21
+Text Label 5600 5050 0    39   ~ 0
+B22
+Text Label 5600 5400 0    39   ~ 0
+B23
+Text Label 5600 5750 0    39   ~ 0
+B24
+Wire Wire Line
+	5800 1900 5600 1900
+Wire Wire Line
+	5800 2250 5600 2250
+Wire Wire Line
+	5800 2600 5600 2600
+Wire Wire Line
+	5800 2950 5600 2950
+Wire Wire Line
+	5800 3300 5600 3300
+Wire Wire Line
+	5800 3650 5600 3650
+Wire Wire Line
+	5800 4000 5600 4000
+Wire Wire Line
+	5800 4350 5600 4350
+Wire Wire Line
+	5800 4700 5600 4700
+Wire Wire Line
+	5800 5050 5600 5050
+Wire Wire Line
+	5800 5400 5600 5400
+Wire Wire Line
+	5800 5750 5600 5750
+$Comp
+L power:PWR_FLAG #FLG01
+U 1 1 5CF49E52
+P 1050 3800
+F 0 "#FLG01" H 1050 3875 50  0001 C CNN
+F 1 "PWR_FLAG" H 1050 3974 50  0000 C CNN
+F 2 "" H 1050 3800 50  0001 C CNN
+F 3 "~" H 1050 3800 50  0001 C CNN
+	1    1050 3800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1050 3800 1450 3800
+Connection ~ 1450 3800
+$Comp
+L Connector_Generic:Conn_01x02 PLC1
+U 1 1 5CEAB6C6
+P 7400 800
+F 0 "PLC1" H 7480 792 50  0000 L CNN
+F 1 "Conn_01x02" H 7480 701 50  0000 L CNN
+F 2 "FOOTPRINTS:2_POS_SPRING_TERM" H 7400 800 50  0001 C CNN
+F 3 "~" H 7400 800 50  0001 C CNN
+F 4 "PHOENIX CONTACT" H 7400 800 50  0001 C CNN "MFG"
+F 5 "277-1794-ND" H 7400 800 50  0001 C CNN "DKPN"
+F 6 "1990009" H 7400 800 50  0001 C CNN "MFGPN"
+	1    7400 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 VDC1
+U 1 1 5CEB404E
+P 5500 800
+F 0 "VDC1" H 5580 792 50  0000 L CNN
+F 1 "Conn_01x02" H 5580 701 50  0000 L CNN
+F 2 "FOOTPRINTS:2_POS_SCREW_TERM" H 5500 800 50  0001 C CNN
+F 3 "~" H 5500 800 50  0001 C CNN
+F 4 "277-1794-ND" H 5500 800 50  0001 C CNN "DKPN"
+F 5 "1990009" H 5500 800 50  0001 C CNN "MFGPN"
+F 6 "PHOENIX CONTACT" H 5500 800 50  0001 C CNN "MFG"
+	1    5500 800 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5300 800  5300 900 
+Wire Wire Line
+	5300 900  5150 900 
+Connection ~ 5300 900 
+Wire Wire Line
+	7200 800  7200 900 
+Connection ~ 7200 900 
+Text GLabel 5150 900  0    50   Input ~ 0
+24VDC
+$Comp
+L power:GND #PWR01
+U 1 1 5D02488B
+P 6550 1000
+F 0 "#PWR01" H 6550 750 50  0001 C CNN
+F 1 "GND" H 6555 827 50  0000 C CNN
+F 2 "" H 6550 1000 50  0001 C CNN
+F 3 "" H 6550 1000 50  0001 C CNN
+	1    6550 1000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6550 900  6550 1000
+Wire Wire Line
+	6550 900  7200 900 
+Text Notes 6350 1350 0    50   ~ 0
+13 and 14 are used only on the 24 port input module.
+$Sheet
+S 9000 2350 800  2700
+U 5D03437C
+F0 "Sheet5D03437B" 50
+F1 "OUTPUT_CONNECTORS.sch" 50
+F2 "P01" I L 9000 4950 50 
+F3 "P02" I L 9000 4850 50 
+F4 "P03" I L 9000 4750 50 
+F5 "P04" I L 9000 4650 50 
+F6 "P05" I L 9000 4550 50 
+F7 "P06" I L 9000 4450 50 
+F8 "P07" I L 9000 4350 50 
+F9 "P08" I L 9000 4250 50 
+F10 "P09" I L 9000 4150 50 
+F11 "P10" I L 9000 4050 50 
+F12 "P11" I L 9000 3950 50 
+F13 "P12" I L 9000 3850 50 
+F14 "P13" I L 9000 3550 50 
+F15 "P14" I L 9000 3450 50 
+F16 "P15" I L 9000 3350 50 
+F17 "P16" I L 9000 3250 50 
+F18 "P17" I L 9000 3150 50 
+F19 "P18" I L 9000 3050 50 
+F20 "P19" I L 9000 2950 50 
+F21 "P20" I L 9000 2850 50 
+F22 "P21" I L 9000 2750 50 
+F23 "P22" I L 9000 2650 50 
+F24 "P23" I L 9000 2550 50 
+F25 "P24" I L 9000 2450 50 
+$EndSheet
+Text Label 8700 3850 0    39   ~ 0
+P12
+Text Label 8700 3950 0    39   ~ 0
+P11
+Text Label 8700 4050 0    39   ~ 0
+P10
+Text Label 8700 4150 0    39   ~ 0
+P09
+Text Label 8700 4250 0    39   ~ 0
+P08
+Text Label 8700 4350 0    39   ~ 0
+P07
+Text Label 8700 4450 0    39   ~ 0
+P06
+Text Label 8700 4550 0    39   ~ 0
+P05
+Text Label 8700 4650 0    39   ~ 0
+P04
+Text Label 8700 4750 0    39   ~ 0
+P03
+Text Label 8700 4850 0    39   ~ 0
+P02
+Text Label 8700 4950 0    39   ~ 0
+P01
+Wire Wire Line
+	8700 3850 9000 3850
+Wire Wire Line
+	8700 3950 9000 3950
+Wire Wire Line
+	8700 4050 9000 4050
+Wire Wire Line
+	8700 4150 9000 4150
+Wire Wire Line
+	8700 4250 9000 4250
+Wire Wire Line
+	8700 4350 9000 4350
+Wire Wire Line
+	8700 4450 9000 4450
+Wire Wire Line
+	8700 4550 9000 4550
+Wire Wire Line
+	8700 4650 9000 4650
+Wire Wire Line
+	8700 4750 9000 4750
+Wire Wire Line
+	8700 4850 9000 4850
+Wire Wire Line
+	8700 4950 9000 4950
+Wire Wire Line
+	9000 2450 8700 2450
+Wire Wire Line
+	8700 2550 9000 2550
+Wire Wire Line
+	9000 2650 8700 2650
+Wire Wire Line
+	8700 2750 9000 2750
+Wire Wire Line
+	9000 2850 8700 2850
+Wire Wire Line
+	9000 2950 8700 2950
+Wire Wire Line
+	9000 3050 8700 3050
+Wire Wire Line
+	9000 3150 8700 3150
+Wire Wire Line
+	9000 3250 8700 3250
+Wire Wire Line
+	9000 3350 8700 3350
+Wire Wire Line
+	9000 3450 8700 3450
+Wire Wire Line
+	9000 3550 8700 3550
+Text Label 8700 2450 0    39   ~ 0
+P24
+Text Label 8700 2550 0    39   ~ 0
+P23
+Text Label 8700 2650 0    39   ~ 0
+P22
+Text Label 8700 2750 0    39   ~ 0
+P21
+Text Label 8700 2850 0    39   ~ 0
+P20
+Text Label 8700 2950 0    39   ~ 0
+P19
+Text Label 8700 3050 0    39   ~ 0
+P18
+Text Label 8700 3150 0    39   ~ 0
+P17
+Text Label 8700 3250 0    39   ~ 0
+P16
+Text Label 8700 3350 0    39   ~ 0
+P15
+Text Label 8700 3450 0    39   ~ 0
+P14
+Text Label 8700 3550 0    39   ~ 0
+P13
+$EndSCHEMATC
