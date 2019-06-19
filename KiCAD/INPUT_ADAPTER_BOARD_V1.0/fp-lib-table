@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name FOOTPRINTS)(type KiCad)(uri /opt/dev/git_work/G4_TO_GROOV_ADAPTER/KiCAD/FOOTPRINTS.pretty)(options "")(descr ""))
+)
