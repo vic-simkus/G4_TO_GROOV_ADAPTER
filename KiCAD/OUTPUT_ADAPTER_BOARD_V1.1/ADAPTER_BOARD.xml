@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>/home/vic/Desktop/AGBR_IO_PROJECT/KiCAD/ADAPTER_BOARD/ADAPTER_BOARD.sch</source>
-    <date>Wed 29 May 2019 07:05:32 PM CDT</date>
+    <source>/opt/dev/git_work/G4_TO_GROOV_ADAPTER/KiCAD/OUTPUT_ADAPTER_BOARD_V1.1/ADAPTER_BOARD.sch</source>
+    <date>Fri 16 Aug 2019 07:38:34 PM CDT</date>
     <tool>Eeschema 5.0.2-bee76a0~70~ubuntu18.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -11,320 +11,320 @@
         <rev>V1.0</rev>
         <date>2019-05-24</date>
         <source>ADAPTER_BOARD.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="2" name="/NPN_TRAN_01/" tstamps="/5CE89E16/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="3" name="/sheet5CE8A3D3/" tstamps="/5CE8A3D7/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="4" name="/sheet5CE8A3E4/" tstamps="/5CE8A3E9/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="5" name="/sheet5CE8A3E5/" tstamps="/5CE8A3ED/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="6" name="/sheet5CE8A41C/" tstamps="/5CE8A423/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="7" name="/sheet5CE8A41D/" tstamps="/5CE8A427/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="8" name="/sheet5CE8A41E/" tstamps="/5CE8A42B/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="9" name="/sheet5CE8A41F/" tstamps="/5CE8A42F/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="10" name="/sheet5CE8A48A/" tstamps="/5CE8A495/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="11" name="/sheet5CE8A48B/" tstamps="/5CE8A499/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="12" name="/sheet5CE8A48C/" tstamps="/5CE8A49D/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="13" name="/sheet5CE8A48D/" tstamps="/5CE8A4A1/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="14" name="/sheet5CE8A48E/" tstamps="/5CE8A4A5/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="15" name="/sheet5CE8A48F/" tstamps="/5CE8A4A9/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="16" name="/sheet5CE8A490/" tstamps="/5CE8A4AD/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="17" name="/sheet5CE8A491/" tstamps="/5CE8A4B1/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="18" name="/sheet5CE8A61E/" tstamps="/5CE8A625/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="19" name="/sheet5CE8A61F/" tstamps="/5CE8A629/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="20" name="/sheet5CE8A620/" tstamps="/5CE8A62D/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="21" name="/sheet5CE8A621/" tstamps="/5CE8A631/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="22" name="/sheet5CE8A6B8/" tstamps="/5CE8A6C3/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="23" name="/sheet5CE8A6B9/" tstamps="/5CE8A6C7/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="24" name="/sheet5CE8A6BA/" tstamps="/5CE8A6CB/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="25" name="/sheet5CE8A6BB/" tstamps="/5CE8A6CF/">
       <title_block>
-        <title/>
-        <company/>
-        <rev/>
-        <date/>
+        <title>O22 ADAPTER</title>
+        <company>Vidas Simkus</company>
+        <rev>V1.0</rev>
+        <date>2019-05-24</date>
         <source>NPN_TRAN.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
+        <comment number="1" value="vic.simkus@gmail.com"/>
+        <comment number="2" value="https://www.simkus.com"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
       </title_block>
